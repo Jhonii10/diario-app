@@ -6,7 +6,7 @@
           signInWithPopup,
           signOut, 
           updateProfile} from "firebase/auth";
-  import { addDoc, collection, deleteDoc, doc, getDoc, getDocs } from "firebase/firestore";
+  import { addDoc, collection, deleteDoc, doc, getDocs } from "firebase/firestore";
   import { createContext, useContext, useEffect, useState } from "react";
   import {auth} from '../firebase/firebase'
   import { db } from "../firebase/firebase";

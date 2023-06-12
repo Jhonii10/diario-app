@@ -14,9 +14,9 @@ function App() {
       <Routes>
         <Route  path='/nomina' element={
         <ProtectedRoute><Home /></ProtectedRoute>} />
-        <Route path='/login' element={<Login/>}/>
+        <Route path='/' element={<Login/>}/>
         <Route path='/register' element={<Register/>}/>
-         <Route path='/*' element={<Navigate to='/login' replace/>}/>
+         <Route path='/*' element={<Navigate to='/' replace/>}/>
       </Routes>
     </AuthProvider>
     </div>
