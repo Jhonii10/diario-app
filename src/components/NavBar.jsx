@@ -17,7 +17,7 @@ const NavBar = () => {
         <div className='bg-white '>
             <nav className="bg-gray-800">
                 <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8 h-16 flex  items-center justify-between ">
-                 <h2 className='text-white'>Calculadora Nominal</h2>
+                 <h2 className='text-white'>Diario de notas</h2>
                  <button
                   onClick={handleLogout}
                   className='bg-blue-500 hover:bg-blue-600

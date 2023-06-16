@@ -6,6 +6,7 @@ import Login from './pages/Login';
 import { ProtectedRoute } from './pages/ProtectedRoute';
 import Register from './pages/Register';
 import { AuthProvider } from './context/AuthContext';
+import Navbar2 from './pages/Example';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Route path='/' element={<Login/>}/>
         <Route path='/register' element={<Register/>}/>
          <Route path='/*' element={<Navigate to='/' replace/>}/>
+         <Route path='/example' element={<Navbar2/>}/>
       </Routes>
     </AuthProvider>
     </div>

@@ -37,7 +37,7 @@ const Home = () => {
           <thead className=''>
             <tr>
               <th   className="px-4 py-3 text-center">Fecha</th>
-              <th  className="px-4 py-3 text-centerr">Cantidad</th>
+              <th  className="px-4 py-3 text-centerr">Nota</th>
               <th className="px-4 py-3 text-center" data-id='id'>Borrar</th>
             </tr>
           </thead>
