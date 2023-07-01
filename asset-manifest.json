@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Jhonii10/diario-app/static/css/main.ae312641.css",
-    "main.js": "/Jhonii10/diario-app/static/js/main.a07246ed.js",
-    "static/js/787.08eb9737.chunk.js": "/Jhonii10/diario-app/static/js/787.08eb9737.chunk.js",
-    "service-worker.js": "/Jhonii10/diario-app/service-worker.js",
-    "index.html": "/Jhonii10/diario-app/index.html",
-    "main.ae312641.css.map": "/Jhonii10/diario-app/static/css/main.ae312641.css.map",
-    "main.a07246ed.js.map": "/Jhonii10/diario-app/static/js/main.a07246ed.js.map",
-    "787.08eb9737.chunk.js.map": "/Jhonii10/diario-app/static/js/787.08eb9737.chunk.js.map"
+    "main.css": "/diario-app/static/css/main.ae312641.css",
+    "main.js": "/diario-app/static/js/main.ebb1b8e6.js",
+    "static/js/787.08eb9737.chunk.js": "/diario-app/static/js/787.08eb9737.chunk.js",
+    "service-worker.js": "/diario-app/service-worker.js",
+    "index.html": "/diario-app/index.html",
+    "main.ae312641.css.map": "/diario-app/static/css/main.ae312641.css.map",
+    "main.ebb1b8e6.js.map": "/diario-app/static/js/main.ebb1b8e6.js.map",
+    "787.08eb9737.chunk.js.map": "/diario-app/static/js/787.08eb9737.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae312641.css",
-    "static/js/main.a07246ed.js"
+    "static/js/main.ebb1b8e6.js"
   ]
 }
